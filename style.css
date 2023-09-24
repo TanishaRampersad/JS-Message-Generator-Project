@@ -1,0 +1,22 @@
+body {
+    background-color: #92283f;
+}
+
+.container {
+    color: white;
+    text-align: center;
+}
+
+.btn{
+    position: relative;
+    top: 30px;
+    height: 40px;
+    width: 150px;
+    background-color: lightgrey;
+}
+
+.output{
+    position: relative;
+    top: 65px;
+    font-size: 25px;
+}
